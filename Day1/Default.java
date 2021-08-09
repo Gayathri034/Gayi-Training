@@ -1,7 +1,7 @@
 Package Pack;
     class A{
         voidmsg(){
-            System.out.println("hello java");
+            System.out.println("hello Gayi");
                     } 
     }
     Package Mypack;
